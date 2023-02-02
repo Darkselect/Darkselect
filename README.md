@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://t.me/Darkselect">
-    <align="center" img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
   </a>
 
 
