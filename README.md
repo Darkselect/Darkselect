@@ -20,7 +20,6 @@
 
 ### :woman_technologist: About Me :
 :book: I'm learning java 
-  
 🔭 looking for a good company for experience
   
 
