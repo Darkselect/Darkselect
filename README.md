@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Darkselect">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
