@@ -7,6 +7,6 @@
 
 
 <div id="badges">
-<div style='text-align:center; width:100%'><a>"https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/</a></div>
+<div style='text-align:center; width:100%'><a>https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white/</a></div>
 </div>
 
