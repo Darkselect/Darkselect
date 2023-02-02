@@ -6,5 +6,10 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
 </div>
 
+<div id="badges">
+  <a href="https://t.me/Darkselect">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
+  </a>
+
 
 
