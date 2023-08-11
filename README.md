@@ -19,7 +19,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-:book: I'm learning java and Python 
+:book: I'm learning Java and Python 
   
 🔭 looking for a good company for experience
   
