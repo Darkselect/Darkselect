@@ -32,6 +32,6 @@
   <img src="https://cdn.simpleicons.org/apachekafka/ffffff" width="40" height="40" alt="Kafka"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" height="40" alt="Kafka"/>
   
 </div>
