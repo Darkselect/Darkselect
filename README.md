@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/apachekafka/ffffff" width="40" height="40" alt="Kafka"/>
- <img src="https://cdn.simpleicons.org/git/ffffff" width="40" height="40" alt="Kafka"/>
+  <img src="https://cdn.simpleicons.org/git/e24329" width="40" height="40" alt="Git" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" height="40" alt="Kafka"/>
   
