@@ -32,6 +32,5 @@
   <img src="https://cdn.simpleicons.org/apachekafka/ffffff" width="40" height="40" alt="Kafka"/>
   <img src="https://cdn.simpleicons.org/git/e24329" width="40" height="40" alt="Git" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" height="40" alt="Kafka"/>
-  
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="Postman" />
 </div>
