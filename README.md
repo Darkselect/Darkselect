@@ -35,8 +35,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Git" width="40" height="40"/>
   
 </div>
-
-
-Выдели пожалуйста красиво кафку докер и постман 
-
-https://github.com/Darkselect
